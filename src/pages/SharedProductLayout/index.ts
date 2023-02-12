@@ -1,0 +1,1 @@
+export { default as SharedProductLayout } from './SharedProductLayout';
